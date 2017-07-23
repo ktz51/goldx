@@ -5,10 +5,11 @@
  */
 //written by alexsey rebouças
 //email:alexseyreboucas@icloud.com
+//email:goldxengineer@icloud.com
 
 package GoldxEngineer;
 
-/**
+/*
  *
  * @author alexsey
  */
