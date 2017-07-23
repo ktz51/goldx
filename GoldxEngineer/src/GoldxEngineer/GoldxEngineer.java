@@ -10,7 +10,7 @@ package GoldxEngineer;
 
 /**
  *
- * @author claudia
+ * @author alexsey
  */
 public class GoldxEngineer {
 
