@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-//wrote by alexsey rebouças
+//written by alexsey rebouças
 //email:alexseyreboucas@icloud.com
 
 package GoldxEngineer;
