@@ -1,26 +1,14 @@
 ssh-keygen
-eval `ssh-agent -s`
-ssh-add
 
 
 
-Ubuntu:
-sudo chown cabox:www-data -R ~/workspace 
-CentOS:
-sudo chown cabox:apache -R ~/workspace
 
+added [alias] a = add . --ignore-removal to my .gitconfig 
 
-apt-get install keychain
-keychain id_rsa id_dsa
-. ~/.keychain/`uname -n`-sh
-keychain with --noask option
-
-or
-
-/usr/bin/keychain $HOME/.ssh/id_rsa
-source $HOME/.keychain/$HOSTNAME-sh
-keychain with --noask option
 
 branch
 git config --global push.default matching
 git config --global push.default simple
+
+
+t is saying that you should use either git add -A or git add --ignore-removal ., because git add . will have a different behavior in the newer version of git. Since it says the current version will ignore deleted paths, my best guess is that the next version will default to including them.
