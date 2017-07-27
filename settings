@@ -5,3 +5,17 @@ shsh
 //vi
 :q!,..quiting force
 :wq!,...save quiting force
+
+
+
+//install chrome in linux
+yum install
+aptitude install
+dpkg -i google.deb
+apt-get install google.deb
+
+runing as root...,terminal,nano /opt/google/chrome/google-chrome,find --use-data-dir
+and on final line append --use-data-dir $HOME or
+vi /usr/bin/google-chrome,find exec -a "$0" "$HERE/chrome" "$@" and add --user-data-dir 
+
+apt-get install chromium-browser -y
