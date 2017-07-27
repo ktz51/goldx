@@ -1,0 +1,7 @@
+sh-shell extension,bash interpreter...sh hello.sh or chmod +x,./hello
+shsh
+
+
+//vi
+:q!,..quiting force
+:wq!,...save quiting force
