@@ -1,5 +1,5 @@
 git add -A
-git commit -m "updt `date -s`"
+git commit -m "generated files on `date +'%Y-%m-%d %H:%M:%S'`";
 git push -f
 #echo -n '\n'     `
 EOF
