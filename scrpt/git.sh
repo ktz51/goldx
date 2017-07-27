@@ -1,4 +1,4 @@
 git add -A
-git commit -m "date +"%H:%M:%S-Y%/%d/%m""
+git commit -m "'date +"%H:%M:%S-Y%/%d/%m"'"
 git push -f
-echo -ne '\n'
+echo -n '\n'
