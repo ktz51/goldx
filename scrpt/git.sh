@@ -1,5 +1,5 @@
 git add -A
-git commit -m "`date -s`"
+git commit -m "updt `date -s`"
 git push -f
-#echo -n '\n'
+#echo -n '\n'     `
 echo.
