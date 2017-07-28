@@ -19,3 +19,23 @@ and on final line append --use-data-dir $HOME or
 vi /usr/bin/google-chrome,find exec -a "$0" "$HERE/chrome" "$@" and add --user-data-dir 
 
 apt-get install chromium-browser -y
+
+
+//install up debian
+add repositories to can install and updae .....,can ve 1,2,3 more
+etc/apt/sources.list
+
+deb http://br.ebian.oeg/debian wheezy main
+deb-src http://br.ebian.oeg/debian wheezy main
+
+
+uname -repositorieslsb_realease -a
+update && upgrade
+
+
+# apt-get install x-window-system
+
+
+# X  -version
+
+# apt-get install gnome
