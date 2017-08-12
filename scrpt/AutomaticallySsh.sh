@@ -8,6 +8,15 @@ source $HOME/.keychain/$HOSTNAME-sh" >> ~/.bashrc
 #keychain with --noask option
 
 
+git clone 1
+git clone 2
+cp 1\git .git
+cp 2\git .git
+
+
+
+
+
 ##!/bin/bash
 #eval `ssh-agent -s`
 #ssh-add
