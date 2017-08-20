@@ -1,5 +1,5 @@
 # goldx
-/*
+/* alexsy reboucas subCEO,alexsander reboucas CEO
     goldxengenharia ----> contruindo seu sonho melhor
 
 A goldx para competir no mercado decidiu juntar fatores determinantes no cenário atual 
